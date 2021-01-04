@@ -11,3 +11,7 @@ TEST CHANGES
 Test 2
 
 Test 3
+
+## New section
+
+Test by Laura
