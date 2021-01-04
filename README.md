@@ -22,4 +22,4 @@ easier in the webversion
 
 Test by Katherin
 
-Tesy by Asli
+Test by Asli
