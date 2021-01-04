@@ -17,3 +17,5 @@ Test 3
 Test by Laura
 
 test (2020. 1. 4)
+
+easier in the webversion
