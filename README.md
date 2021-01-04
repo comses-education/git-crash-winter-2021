@@ -2,4 +2,6 @@
 
 A testbed git repository to learn and apply Git concepts.
 
-user: juan is making changes in the README.md
+CHANGES CHANGES CHANGES
+
+Juan attempts
